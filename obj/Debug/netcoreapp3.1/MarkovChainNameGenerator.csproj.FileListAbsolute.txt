@@ -1,0 +1,13 @@
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\bin\Debug\netcoreapp3.1\MarkovChainNameGenerator.exe
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\bin\Debug\netcoreapp3.1\MarkovChainNameGenerator.deps.json
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\bin\Debug\netcoreapp3.1\MarkovChainNameGenerator.runtimeconfig.json
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\bin\Debug\netcoreapp3.1\MarkovChainNameGenerator.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\bin\Debug\netcoreapp3.1\MarkovChainNameGenerator.dll
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\bin\Debug\netcoreapp3.1\MarkovChainNameGenerator.pdb
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\obj\Debug\netcoreapp3.1\MarkovChainNameGenerator.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\obj\Debug\netcoreapp3.1\MarkovChainNameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\obj\Debug\netcoreapp3.1\MarkovChainNameGenerator.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\obj\Debug\netcoreapp3.1\MarkovChainNameGenerator.AssemblyInfo.cs
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\obj\Debug\netcoreapp3.1\MarkovChainNameGenerator.dll
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\obj\Debug\netcoreapp3.1\MarkovChainNameGenerator.pdb
+C:\Users\Steven\Desktop\Gix\Programming\MarkovChainNameGenerator\obj\Debug\netcoreapp3.1\MarkovChainNameGenerator.genruntimeconfig.cache
