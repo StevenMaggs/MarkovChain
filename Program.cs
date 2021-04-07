@@ -8,7 +8,7 @@ namespace MarkovChainNameGenerator
         {
             string txt = "Kevin Steven Thomas Timothy Christina Kyle Rachel Laura Lauren Amber Brittany Danielle Richard Kimin Mark Emily Aaron";
             
-            Console.WriteLine(MarkovChain.GenerateName(4, 10, txt, 2));
+            Console.WriteLine(MarkovChain.GenerateName(4, 10, txt, 1));
         }
     }
 }

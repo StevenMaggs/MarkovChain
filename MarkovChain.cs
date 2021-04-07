@@ -7,8 +7,8 @@ namespace MarkovChainNameGenerator
     {
         public static string GenerateName(int lengthMin, int lengthMax, string trainingData, int order)
         {
-            Dictionary<string, List<string>> ngrams = InitializeNGrams(trainingData, order);
             List<string> parsedTrainingData = ParseTrainingData(trainingData);
+            Dictionary<string, List<string>> ngrams = InitializeNGrams(parsedTrainingData, order);
 
             Random random = new Random();
             int nameLength = random.Next(lengthMin, lengthMax + 1);
@@ -27,14 +27,13 @@ namespace MarkovChainNameGenerator
             return name;
         }
 
-        private static Dictionary<string, List<string>> InitializeNGrams(string trainingData, int order)
+        private static Dictionary<string, List<string>> InitializeNGrams(List<string> trainingData, int order)
         {
             Dictionary<string, List<string>> ngrams = new Dictionary<string, List<string>>();
-            List<string> parsedTrainingData = ParseTrainingData(trainingData);
 
-            for (int n = 0; n < parsedTrainingData.Count; n++)
+            for (int n = 0; n < trainingData.Count; n++)
             {
-                string currentData = parsedTrainingData[n];
+                string currentData = trainingData[n];
                 for (int i = 0; i < currentData.Length - order + 1; i++)
                 {
                     string currentGram = currentData.Substring(i, order);

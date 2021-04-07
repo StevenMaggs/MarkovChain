@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Steven\\Desktop\\Gix\\Programming\\MarkovChainNameGenerator\\MarkovChainNameGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\Steven\\Desktop\\Gix\\Programming\\MarkovChain\\MarkovChain\\MarkovChainNameGenerator.csproj",
       "projectName": "MarkovChainNameGenerator",
-      "projectPath": "C:\\Users\\Steven\\Desktop\\Gix\\Programming\\MarkovChainNameGenerator\\MarkovChainNameGenerator.csproj",
+      "projectPath": "C:\\Users\\Steven\\Desktop\\Gix\\Programming\\MarkovChain\\MarkovChain\\MarkovChainNameGenerator.csproj",
       "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Steven\\Desktop\\Gix\\Programming\\MarkovChainNameGenerator\\obj\\",
+      "outputPath": "C:\\Users\\Steven\\Desktop\\Gix\\Programming\\MarkovChain\\MarkovChain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
